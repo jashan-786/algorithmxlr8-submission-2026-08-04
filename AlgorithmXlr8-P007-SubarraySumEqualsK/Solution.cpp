@@ -20,8 +20,6 @@ int main() {
 
         if (mp.find(checkInMap) != mp.end()) {
         count += mp[checkInMap];
-        
-    
     }
         
         mp[sum]++;
